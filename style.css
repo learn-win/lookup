@@ -1,0 +1,109 @@
+
+body {
+  /* overflow: hidden; */
+  height: 100vh;
+  margin: 0;
+
+  /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=20a2ba&c2=c89193&gt=c&gd=dtl
+*/
+/* background: #20A2BA;
+background: conic-gradient(from 315deg, #20A2BA, #C89193);
+  background: linear-gradient(to bottom right,#FF7B89,#8A5082); */
+
+  /*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=58e0e3&c2=0ab69c&gt=c&gd=dtl
+*/
+/* background: #58E0E3;
+background: conic-gradient(from 315deg, #58E0E3, #0AB69C); */
+/*
+* Created with https://www.css-gradient.com
+* Gradient link: https://www.css-gradient.com/?c1=fff09b&c2=ddbf3f&gt=c&gd=dtl
+*/
+background: #FFF09B;
+background: conic-gradient(from 315deg, #FFF09B, #DDBF3F);
+}
+#col12 {
+  margin-top: 60px;
+  gap: 8px;
+  display: flex;
+  justify-content: center;
+}
+.form-control {
+  width: 420px;
+  max-width: 100%;
+  height: 55px;
+  outline: none;
+  border: none;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+
+#selection {
+  width: 130px;
+  height: 55px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  /* background-color: #eeeeee; */
+  /* background: none repeat scroll 0 0 #FFFFFF;
+  border: 1px solid #E5E5E5;
+  border-radius: 5px 5px 5px 5px;
+  box-shadow: 0 0 10px #E8E8E8 inset;
+  height: 40px;
+  margin: 0 0 0 25px;
+  padding: 10px;
+  width: 110px */
+}
+
+
+#selection:focus{
+    box-shadow: none;
+}
+.btnn {
+  width: 100px;
+  height: 55px;
+  border: none;
+  color: white;
+  border-radius: 7px;
+  background-color: #f84b5d;
+}
+
+.output{
+  text-align: justify;
+  padding: 30px;
+overflow: auto;
+overflow-x: hidden;
+  width: 650px;
+  height: 300px;
+  border-radius: 10px;
+  background-color: white;
+
+}
+.output button {
+  background-color: transparent;
+  color: #f84b5d;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  float: right;
+}
+.output button:focus{
+  background-color: #ededed;
+  border-radius: 200px;
+}
+h1{
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px 4px #424242;
+  text-align: center;
+  margin-top: 130px;
+  /* margin-left: -50px; */
+}
+h1 {
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
