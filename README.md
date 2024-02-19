@@ -1,5 +1,5 @@
 # BOOK AI PROTOTYPE v1.0    
-We can easily find the download link for any topic using Google's custom search engine, which may help reduce time. We can get the file in any format, such as pdf, PowerPoint, or Excel .You can easily find the meaning of the given word and we can easily get the information available from upload document . Document supported format such as "pdf","doc" and "docx".   
+We can easily find the download link for any topic using Google's custom search engine, which may help reduce time. We can get the file in any format, such as pdf, Powerpoint, or Excel .You can easily find the meaning of the given word and we can easily get the information available from upload document . Document supported format such as "pdf","doc" and "docx".   
 
 ## Requirements
 Browser
